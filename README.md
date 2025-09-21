@@ -71,5 +71,6 @@ The logistic regression model is implemented **from scratch using Gradient Desce
 ## 🛠️ How to Run
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/breast-cancer-classification.git
-cd breast-cancer-classification
+git clone https://github.com/5hah_1d/breast-cancer-classification.git
+cd breast-cancer-classifier
+
